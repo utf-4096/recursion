@@ -1,0 +1,3 @@
+[submodule "self"]
+	path = self
+	url = https://github.com/utf-4096/recursion.git
